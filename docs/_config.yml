@@ -12,7 +12,7 @@ showinSearchEngines: true
 
 # Set basic server info
 serverName: Buildersunite
-serverDescription: Dein Skyblock Server
+serverDescription: 2
 serverIP: play.buildersunite.de
 useBedrockForOnlineStatus: false
 
