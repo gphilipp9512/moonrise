@@ -5,9 +5,7 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
+Buildersunite ist ein kleiner Skyblock Server auf der Minecraft Version 1.18.1
 
 
 # Terms of Use
@@ -17,7 +15,7 @@ Moonrise MC is free for use [under the MIT license](https://github.com/coffeeban
 
 # Privacy Policy
 
-This website does not collect any data, but third party integrations may collect data to provide a service.
+Diese Website sammelt keine Daten, aber Integrationen von Drittanbietern können Daten sammeln, um einen Service bereitzustellen.
 
-- Mcsrvstat.us: Displays Minecraft server status
-- Widgetbot: Displays Discord server preview
+- Mcsrvstat.us: Anzeige Minecraftstatus
+- Widgetbot: Anzeige Discord Neuigkeiten
